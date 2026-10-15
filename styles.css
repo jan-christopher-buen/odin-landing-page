@@ -125,3 +125,35 @@ body {
   text-align: right;
   margin: 0;
 }
+
+.cta {
+  padding: 96px 15%;
+}
+
+.cta-box {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border-radius: 8px;
+  padding: 48px 96px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cta-text h3 {
+  font-size: 24px;
+  margin: 0 0 8px;
+}
+
+.cta-text p {
+  margin: 0;
+}
+
+.cta-button {
+  color: #F9FAF8;
+  text-decoration: none;
+  border: 2px solid #F9FAF8;
+  border-radius: 8px;
+  padding: 8px 32px;
+  font-weight: bold;
+}
