@@ -157,3 +157,14 @@ body {
   padding: 8px 32px;
   font-weight: bold;
 }
+
+.footer {
+  background-color: #1F2937;
+  color: #E5E7EB;
+  text-align: center;
+  padding: 32px;
+}
+
+.footer p {
+  margin: 0;
+}
